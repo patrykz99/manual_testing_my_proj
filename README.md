@@ -1,8 +1,10 @@
 # Manual testing
 ## Short Description
-***All files are in the English language***</br></br>
+***Most files are in the English language***</br></br>
 **Test_cases.xlsx** - this file contains a projected test cases for example website: ***https://test.testowanie-oprogramowania.pl/***
 <br> 
 **Test_raport_PZ.pdf** - this file contains a projected exploratory test raport for example website: ***https://skleptest.pl***
 <br>
 **Test_raport_2_PZ.pdf** - this file contains a projected exploratory test raport for example website: ***https://academybugs.com***<br>
+**method_qted_PZ.pdf** - QTED method example of thinking (Polish ver.) <br>
+
